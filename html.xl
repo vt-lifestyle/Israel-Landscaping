@@ -1,0 +1,635 @@
+<!DOCTYPE html><html class="dark" lang="en" style=""><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title class="">Israel's Clean Ups | Yard Cleanup, Landscaping &amp; Hauling in Modesto, CA</title>
+<meta content="Professional yard cleanups, landscaping, Bobcat services, and general hauling in Modesto, CA. Get a free estimate today." name="description">
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700&amp;family=Oswald:wght@500;600;700&amp;family=Barlow+Condensed:wght@600;700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "on-tertiary-container": "#2e2a19",
+                        "tertiary-fixed": "#ebe2c9",
+                        "on-tertiary-fixed-variant": "#4c4734",
+                        "secondary": "#c6c8b9",
+                        "outline-variant": "#56423a",
+                        "surface-container": "#201f1f",
+                        "surface": "#131313",
+                        "secondary-container": "#474a3f",
+                        "primary-fixed": "#ffdbcc",
+                        "on-tertiary-fixed": "#1f1c0c",
+                        "surface-container-highest": "#353534",
+                        "on-secondary-container": "#b7baab",
+                        "secondary-fixed": "#e2e4d4",
+                        "on-error-container": "#ffdad6",
+                        "tertiary": "#cec6ae",
+                        "on-primary-container": "#4c1a00",
+                        "on-tertiary": "#35301f",
+                        "on-primary": "#571f00",
+                        "error-container": "#93000a",
+                        "surface-variant": "#353534",
+                        "tertiary-fixed-dim": "#cec6ae",
+                        "surface-dim": "#131313",
+                        "inverse-primary": "#9f4208",
+                        "on-primary-fixed-variant": "#7b2f00",
+                        "secondary-fixed-dim": "#c6c8b9",
+                        "surface-container-high": "#2a2a2a",
+                        "primary-fixed-dim": "#ffb694",
+                        "tertiary-container": "#97917a",
+                        "on-surface-variant": "#ddc1b5",
+                        "primary": "#ffb694",
+                        "outline": "#a58b81",
+                        "on-surface": "#e5e2e1",
+                        "on-primary-fixed": "#351000",
+                        "surface-bright": "#393939",
+                        "on-secondary-fixed": "#1a1d13",
+                        "on-secondary": "#2f3227",
+                        "surface-tint": "#ffb694",
+                        "on-background": "#e5e2e1",
+                        "background": "#131313",
+                        "on-error": "#690005",
+                        "on-secondary-fixed-variant": "#45483d",
+                        "surface-container-low": "#1c1b1b",
+                        "error": "#ffb4ab",
+                        "inverse-on-surface": "#313030",
+                        "primary-container": "#e07239",
+                        "surface-container-lowest": "#0e0e0e",
+                        "inverse-surface": "#e5e2e1",
+                        "burnt-clay": "#D66A32"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.125rem",
+                        "lg": "0.25rem",
+                        "xl": "0.5rem",
+                        "full": "0.75rem"
+                    },
+                    "spacing": {
+                        "unit": "8px",
+                        "margin-mobile": "16px",
+                        "max-width": "1280px",
+                        "gutter": "24px",
+                        "margin-desktop": "64px",
+                        "section-gap-mobile": "80px",
+                        "section-gap-desktop": "160px"
+                    },
+                    "fontFamily": {
+                        "body-md": ["Manrope"],
+                        "headline-lg": ["Oswald"],
+                        "headline-md": ["Oswald"],
+                        "display-lg": ["Oswald"],
+                        "body-lg": ["Manrope"],
+                        "ui-label-lg": ["Barlow Condensed"],
+                        "button-text": ["Barlow Condensed"],
+                        "headline-lg-mobile": ["Oswald"],
+                        "ui-label-md": ["Barlow Condensed"]
+                    },
+                    "fontSize": {
+                        "body-md": ["16px", { "lineHeight": "24px", "fontWeight": "400" }],
+                        "headline-lg": ["48px", { "lineHeight": "56px", "fontWeight": "600" }],
+                        "headline-md": ["32px", { "lineHeight": "40px", "fontWeight": "500" }],
+                        "display-lg": ["64px", { "lineHeight": "72px", "fontWeight": "700" }],
+                        "body-lg": ["18px", { "lineHeight": "28px", "fontWeight": "400" }],
+                        "ui-label-lg": ["18px", { "lineHeight": "20px", "letterSpacing": "0.05em", "fontWeight": "700" }],
+                        "button-text": ["16px", { "lineHeight": "24px", "fontWeight": "700" }],
+                        "headline-lg-mobile": ["32px", { "lineHeight": "40px", "fontWeight": "600" }],
+                        "ui-label-md": ["14px", { "lineHeight": "16px", "letterSpacing": "0.05em", "fontWeight": "600" }]
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        body {
+            background-color: #131313;
+            color: #e5e2e1;
+            scroll-behavior: smooth;
+        }
+        .text-stone { color: #A69F88; }
+        .bg-stone { background-color: #A69F88; }
+        .border-slate { border-color: #353534; }
+        .bg-card { background-color: #1c1b1b; }
+        .border-card-top { border-top-color: #353534; border-top-width: 1px; border-top-style: solid; }
+        
+        .nav-link { position: relative; }
+        .nav-link::after {
+            content: '';
+            position: absolute;
+            width: 0;
+            height: 2px;
+            bottom: -4px;
+            left: 0;
+            background-color: #D66A32;
+            transition: width 0.3s ease;
+        }
+        .nav-link:hover::after, .nav-link.active::after {
+            width: 100%;
+        }
+
+        .reveal-up {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: all 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+        .reveal-up.is-visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .service-arrow {
+            transition: transform 0.3s ease;
+        }
+        .group:hover .service-arrow {
+            transform: translateX(4px);
+        }
+    </style>
+</head>
+<body class="font-body-md text-body-md antialiased overflow-x-hidden">
+<!-- TopNavBar -->
+<nav class="fixed top-0 left-0 w-full z-50 flex justify-between items-center px-gutter max-w-max-width mx-auto h-20 bg-background/80 backdrop-blur-md hidden md:flex border-b border-outline/20">
+<div class="font-display-lg text-headline-md uppercase tracking-tighter text-on-surface flex flex-col leading-none">
+<span class="">ISRAEL'S CLEAN UPS</span>
+<span class="font-ui-label-md text-ui-label-md text-on-surface-variant tracking-[0.2em] mt-1">Gardening &amp; General Hauling</span>
+</div>
+<ul class="flex gap-8 items-center font-button-text text-button-text">
+<li class=""><a class="nav-link active text-burnt-clay font-bold border-b-2 border-burnt-clay pb-1" href="#home">Home</a></li>
+<li class=""><a class="nav-link text-on-surface-variant font-medium hover:text-on-surface transition-colors duration-300" href="#services">Services</a></li>
+<li class=""><a class="nav-link text-on-surface-variant font-medium hover:text-on-surface transition-colors duration-300" href="#why-israel">Why Israel's</a></li>
+<li class=""><a class="nav-link text-on-surface-variant font-medium hover:text-on-surface transition-colors duration-300" href="#reviews">Reviews</a></li>
+<li class=""><a class="nav-link text-on-surface-variant font-medium hover:text-on-surface transition-colors duration-300" href="#service-area">Service Area</a></li>
+</ul>
+<a class="bg-burnt-clay text-[#131313] px-8 py-3 font-button-text text-button-text uppercase hover:bg-opacity-90 transition-colors rounded-DEFAULT flex items-center gap-2 active:scale-95 duration-150" href="tel:+12094993194">
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">call</span>
+            CALL NOW
+        </a>
+</nav>
+<!-- Mobile Top Nav -->
+<nav class="fixed top-0 left-0 w-full z-50 flex justify-between items-center px-margin-mobile py-4 bg-background/90 backdrop-blur-md md:hidden border-b border-outline/20">
+<div class="font-display-lg text-headline-lg-mobile uppercase tracking-tighter text-on-surface flex flex-col leading-none">
+<span class="">ISRAEL'S CLEAN UPS</span>
+</div>
+</nav>
+<main class="pt-0">
+<!-- 1. HERO -->
+<section class="relative min-h-[819px] flex flex-col justify-center pt-24 md:pt-32" id="home">
+<!-- Hero Background -->
+<div class="absolute inset-0 z-0">
+<img alt="Clean residential front yard in Modesto" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDRmqk1-F1dr8DasNR1LdACsZdXdrr17ufUWrz2Zzzg7Hdqjns8wI0s8YU7YUYGhiZ15snXt6P_exQhWiiVoKW8gMdgO19ca5iuB3AxA3jZzumKkT-ZpF7YsmvTKkfgi6TJm1zUNbJ96ulaoLDUN_FHlVCvWBmWpaol-rTn_oZzVmbFLPj1McRYju_NL-U891e_X4f60ynOsxarOCoGYGjDXdHMVbFgcCKg5owBI_EDMFvsTWX8lUpZHmlaZoOVJXmtkA">
+<div class="absolute inset-0 bg-background/80"></div>
+</div>
+<div class="relative z-10 px-margin-mobile md:px-gutter max-w-max-width mx-auto w-full py-section-gap-mobile md:py-section-gap-desktop reveal-up is-visible">
+<div class="grid grid-cols-1 md:grid-cols-12 gap-gutter">
+<div class="md:col-span-10 flex flex-col gap-6">
+<span class="font-ui-label-md text-ui-label-md text-burnt-clay tracking-[0.2em] uppercase">MODESTO YARD CLEANUP • LANDSCAPING • HAULING</span>
+<h1 class="font-display-lg text-display-lg uppercase text-on-surface max-w-4xl leading-tight">FROM OVERGROWN TO CLEAN &amp; READY.</h1>
+<p class="font-body-lg text-body-lg text-on-surface-variant max-w-2xl mt-4 text-on-surface">Yard cleanups, landscaping, Bobcat services and general hauling for homes and properties throughout Modesto and surrounding areas.</p>
+<div class="flex flex-col sm:flex-row gap-4 mt-8">
+<a class="bg-burnt-clay text-[#131313] px-8 py-4 font-button-text text-button-text uppercase text-center rounded-DEFAULT hover:bg-opacity-90 transition-colors" href="#estimate">GET A FREE ESTIMATE</a>
+<a class="border border-outline-variant text-on-surface px-8 py-4 font-button-text text-button-text uppercase text-center rounded-DEFAULT hover:bg-surface-variant transition-colors" href="tel:+12094993194">CALL (209) 499-3194</a>
+</div>
+<div class="flex items-center gap-4 mt-12 pt-6 border-t border-slate text-on-surface-variant font-ui-label-md text-ui-label-md tracking-wider uppercase">
+<span class="flex items-center text-on-surface-variant"><span class="material-symbols-outlined mr-1 text-burnt-clay" style="font-variation-settings: &quot;FILL&quot; 1;">star</span> 4.9 Google Rating</span>
+<span class="hidden sm:inline">|</span>
+<span class="">MODESTO-BASED</span>
+<span class="hidden sm:inline">|</span>
+<span class="">Free Estimates</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 2. PROBLEM/SOLUTION -->
+<section class="px-margin-mobile md:px-gutter max-w-max-width mx-auto py-section-gap-mobile md:py-section-gap-desktop border-t border-slate reveal-up is-visible" id="services">
+<h2 class="font-headline-lg text-headline-lg uppercase text-on-surface max-w-4xl mb-16">WHEN THE YARD GETS OUT OF HAND, WE GET TO WORK.</h2>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+<!-- Card 1 -->
+<div class="bg-surface-container-low border border-outline-variant p-8 flex flex-col gap-6 h-full relative group hover:border-burnt-clay transition-colors duration-300">
+<div class="flex justify-between items-start w-full">
+<div class="text-burnt-clay font-display-lg text-headline-lg opacity-90 transition-opacity">01</div>
+<span class="material-symbols-outlined text-burnt-clay service-arrow">arrow_forward</span>
+</div>
+<h3 class="font-headline-md text-headline-md uppercase text-on-surface pb-4 border-b border-outline-variant">CLEAN IT UP</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-auto">Yard cleanup, weeds, brush and debris removal to help reclaim your outdoor space.</p>
+</div>
+<!-- Card 2 -->
+<div class="bg-surface-container-low border border-outline-variant p-8 flex flex-col gap-6 h-full relative group hover:border-burnt-clay transition-colors duration-300">
+<div class="flex justify-between items-start w-full">
+<div class="text-burnt-clay font-display-lg text-headline-lg opacity-90 transition-opacity">02</div>
+<span class="material-symbols-outlined text-burnt-clay service-arrow">arrow_forward</span>
+</div>
+<h3 class="font-headline-md text-headline-md uppercase text-on-surface pb-4 border-b border-outline-variant">HAUL IT OUT</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-auto">Efficient removal of dirt, unwanted rock, concrete debris, and general yard waste.</p>
+</div>
+<!-- Card 3 -->
+<div class="bg-surface-container-low border border-outline-variant p-8 flex flex-col gap-6 h-full relative group hover:border-burnt-clay transition-colors duration-300">
+<div class="flex justify-between items-start w-full">
+<div class="text-burnt-clay font-display-lg text-headline-lg opacity-90 transition-opacity">03</div>
+<span class="material-symbols-outlined text-burnt-clay service-arrow">arrow_forward</span>
+</div>
+<h3 class="font-headline-md text-headline-md uppercase text-on-surface pb-4 border-b border-outline-variant">BUILD IT BACK BETTER</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-auto">Sod installation, landscaping, yard improvements, and sprinkler irrigation work.</p>
+</div>
+</div>
+</section>
+<!-- 3. DETAILED SERVICES -->
+<section class="bg-surface-container-low border-t border-slate" id="detailed-services">
+<div class="px-margin-mobile md:px-gutter max-w-max-width mx-auto py-section-gap-mobile md:py-section-gap-desktop reveal-up is-visible">
+<div class="grid grid-cols-1 lg:grid-cols-2 gap-16">
+<div class="flex flex-col justify-center">
+<span class="font-ui-label-md text-ui-label-md text-burnt-clay tracking-[0.2em] uppercase mb-4">OUR SERVICES</span>
+<h2 class="font-headline-lg text-headline-lg uppercase text-on-surface mb-8">ONE CREW. MORE WAYS TO GET THE YARD DONE.</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-12">
+<div>
+<h4 class="font-headline-md text-[24px] leading-tight uppercase text-on-surface mb-3 flex items-center gap-2"><span class="material-symbols-outlined text-burnt-clay" style="font-variation-settings: &quot;FILL&quot; 1;">cleaning_services</span> Yard Cleanups</h4>
+<p class="text-on-surface-variant text-body-md">Complete removal of weeds, overgrowth, and debris to restore your property's baseline.</p>
+</div>
+<div>
+<h4 class="font-headline-md text-[24px] leading-tight uppercase text-on-surface mb-3 flex items-center gap-2"><span class="material-symbols-outlined text-burnt-clay" style="font-variation-settings: &quot;FILL&quot; 1;">landscape</span> Landscaping &amp; Yard Improvements</h4>
+<p class="text-on-surface-variant text-body-md">Landscaping and yard improvements designed to create a cleaner, more finished outdoor space.</p>
+</div>
+<div>
+<h4 class="font-headline-md text-[24px] leading-tight uppercase text-on-surface mb-3 flex items-center gap-2"><span class="material-symbols-outlined text-burnt-clay" style="font-variation-settings: &quot;FILL&quot; 1;">agriculture</span> Bobcat &amp; Site Preparation</h4>
+<p class="text-on-surface-variant text-body-md">Bobcat work, grading, earthmoving, and removal of dirt, rock and concrete.</p>
+</div>
+<div>
+<h4 class="font-headline-md text-[24px] leading-tight uppercase text-on-surface mb-3 flex items-center gap-2"><span class="material-symbols-outlined text-burnt-clay" style="font-variation-settings: &quot;FILL&quot; 1;">local_shipping</span> General Hauling &amp; Removal</h4>
+<p class="text-on-surface-variant text-body-md">Removal and hauling of dirt, rock, concrete, yard waste and general debris.</p>
+</div>
+<div>
+<h4 class="font-headline-md text-[24px] leading-tight uppercase text-on-surface mb-3 flex items-center gap-2"><span class="material-symbols-outlined text-burnt-clay" style="font-variation-settings: &quot;FILL&quot; 1;">water_drop</span> Sprinklers &amp; Irrigation</h4>
+<p class="text-on-surface-variant text-body-md">Sprinkler irrigation installation and irrigation work for residential landscapes.</p>
+</div>
+<div>
+<h4 class="font-headline-md text-[24px] leading-tight uppercase text-on-surface mb-3 flex items-center gap-2"><span class="material-symbols-outlined text-burnt-clay" style="font-variation-settings: &quot;FILL&quot; 1;">park</span> Trees, Hedges &amp; Stumps</h4>
+<p class="text-on-surface-variant text-body-md">Tree pruning, hedge and shrub trimming, shrub removal, stump grinding and planting.</p>
+</div>
+</div>
+</div>
+<div class="relative h-[400px] lg:h-auto rounded-DEFAULT overflow-hidden">
+<img alt="Bobcat working on a residential site" class="absolute inset-0 w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida/AP1WRLs3swsIajLYEDQ15EYQ2J0oyiAJ_qkrOZS3fNfT8B354mS9raPqyZ4n_zqMotR5f39QiAGvNueza4XTi6Yox_AZYi6cbqsgKFmXJIbj3LxCj3kilsKbyUq9ZpgsuyYxPAhtQ0O5-WC0lMPgZzmWr9D9jnSvY3fNy3-bshprFjUJRZDlVRSMdyo21TxNd9yw5n_v4NuYSSlRnxTCtq7Uh0arJYANKMeN2XAxka14giZgs30tbdKytmjYtg">
+</div>
+</div>
+</div>
+</section>
+<!-- 4. TRANSFORMATIONS -->
+<section class="border-t border-slate py-section-gap-mobile md:py-section-gap-desktop bg-surface" id="work">
+<div class="px-margin-mobile md:px-gutter max-w-max-width mx-auto reveal-up is-visible">
+<div class="text-center mb-16">
+<span class="font-ui-label-md text-ui-label-md text-burnt-clay tracking-[0.2em] uppercase">REAL TRANSFORMATION</span>
+<h2 class="font-headline-lg text-headline-lg uppercase text-on-surface mt-4">SEE WHAT THE RIGHT WORK CAN CHANGE.</h2>
+<p class="font-body-lg text-on-surface-variant mt-4 max-w-2xl mx-auto">From an unfinished front yard to a clean, finished landscape.</p>
+</div>
+<div class="flex flex-col lg:flex-row gap-6 mb-16 relative items-stretch">
+<!-- BEFORE -->
+<div class="lg:w-[30%] relative rounded-DEFAULT overflow-hidden border border-outline-variant flex flex-col group">
+<div class="absolute top-4 left-4 bg-surface-container-high/90 backdrop-blur text-burnt-clay px-4 py-2 font-ui-label-lg rounded-DEFAULT uppercase z-10 shadow-md">BEFORE</div>
+<img alt="Before" class="w-full h-full object-cover min-h-[300px]" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDzysoxMiACn7khQR94Gy4ngYZWpo1LPVSjxhz6A3d-V59t87G52IvBIJFz645DcpzOZxfxMy-9DENDtYhRbnA8fUfqUdFU5he8f5gWZCZVSly5czgYZfU9wQoDJC0REajBWssAp0V7M7UXGzdfR5i-hZApVfD8bykA3hzP64p1wyr-F_WnB1-Jh6EOd5kLSNjDaSsUNnEWLIiWm4TGtsRwh-OMrpy3kbKfczyErDLFR4gGax7ldHv3-FKdJTrX8pUGBg">
+</div>
+<!-- Desktop Progression -->
+<div class="hidden lg:flex items-center justify-center -mx-3 z-10 text-burnt-clay">
+<div class="w-10 h-10 bg-surface rounded-full border border-outline-variant flex items-center justify-center shadow-lg"><span class="material-symbols-outlined">arrow_forward</span></div>
+</div>
+<!-- Mobile Progression -->
+<div class="lg:hidden flex items-center justify-center -my-3 z-10 text-burnt-clay">
+<div class="w-10 h-10 bg-surface rounded-full border border-outline-variant flex items-center justify-center shadow-lg"><span class="material-symbols-outlined">arrow_downward</span></div>
+</div>
+<!-- PREP -->
+<div class="lg:w-[30%] relative rounded-DEFAULT overflow-hidden border border-outline-variant flex flex-col group">
+<div class="absolute top-4 left-4 bg-surface-container-high/90 backdrop-blur text-burnt-clay px-4 py-2 font-ui-label-lg rounded-DEFAULT uppercase z-10 shadow-md">PREP</div>
+<img alt="Prep" class="w-full h-full object-cover min-h-[300px]" src="https://lh3.googleusercontent.com/aida-public/AB6AXuD-KMr-1lwZZQpt0QqvZA6SafnwncCFRVRY0hdJLZAc9u9Qq-E-QLzKGOusM7oJzUoHicZCTV6W4qsY3CU9Lg6qHIVDjl0pqjIuE7yZE73BIQYLPVvy0KbinKMNYeBmIX4kv1lX8Q6JMzgsAIUrGMfEO7YV_kd3DOKZqdZZqKOlohtfzIvGLmyPUkSY9rVcVs_h4oxU-alygBvLWTyXw6RE5ttaEsJ1S1QWjjiDCh7gndDx4U8c4stMi0dCs7r4RqGTUg">
+</div>
+<!-- Desktop Progression -->
+<div class="hidden lg:flex items-center justify-center -mx-3 z-10 text-burnt-clay">
+<div class="w-10 h-10 bg-surface rounded-full border border-outline-variant flex items-center justify-center shadow-lg"><span class="material-symbols-outlined">arrow_forward</span></div>
+</div>
+<!-- Mobile Progression -->
+<div class="lg:hidden flex items-center justify-center -my-3 z-10 text-burnt-clay">
+<div class="w-10 h-10 bg-surface rounded-full border border-outline-variant flex items-center justify-center shadow-lg"><span class="material-symbols-outlined">arrow_downward</span></div>
+</div>
+<!-- AFTER -->
+<div class="lg:w-[40%] relative rounded-DEFAULT overflow-hidden border border-burnt-clay/50 shadow-[0_0_20px_rgba(214,106,50,0.15)] flex flex-col group">
+<div class="absolute top-4 left-4 bg-burnt-clay/90 backdrop-blur text-[#131313] px-4 py-2 font-ui-label-lg rounded-DEFAULT uppercase z-10 shadow-md">AFTER</div>
+<img alt="After" class="w-full h-full object-cover min-h-[300px] lg:min-h-[400px]" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDVSMo_fOAJP04UWWvPhKtTKffh03GCf7jT-5Ea88YD7UPzUn_JVPsiOI6ViRM-kl9Xt_mcdFb6pX_wAJByrIsif_GyZ3PE1S2aZfEdzkOyc73ZwFthlcqyqneyfvxP2VkkHTaniZclaa5HDrSsxonk-Wu6877sv5cjZRQiqiyFruzs0vBddEWFVdQh6erpDzDBCOqkaiqtwWVVellVIZKx1Kshn096k26Ctgi6IT3Rpuyi_PtLW-fEgYXUKzW5pTiwfQ">
+</div>
+</div>
+<div class="bg-surface-container-low border border-outline-variant p-8 rounded-DEFAULT max-w-4xl mx-auto flex flex-col md:flex-row gap-8 items-center relative overflow-hidden">
+<div class="absolute -right-4 -top-4 text-9xl text-burnt-clay/5 font-display-lg leading-none select-none">"</div>
+<div class="flex-shrink-0 flex flex-col items-center gap-2">
+<div class="w-16 h-16 bg-surface-container-high rounded-full flex items-center justify-center text-burnt-clay text-2xl font-display-lg border border-outline-variant">
+      G
+    </div>
+<div class="flex text-burnt-clay gap-1 text-sm">
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+</div>
+</div>
+<div>
+<p class="font-body-lg italic text-on-surface mb-4">“When Israel came for a consultation, he was attentive and understanding. He provided ideas and vision. I am very pleased by the end result! Communication, design, and execution are impeccable!”</p>
+<div class="flex items-center gap-2">
+<span class="font-ui-label-md text-on-surface">Google Review</span>
+
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 5. WHY ISRAEL'S -->
+<section class="border-t border-slate py-section-gap-mobile md:py-section-gap-desktop bg-surface-container-low max-w-max-width mx-auto px-6 md:px-16" id="why-israel">
+<div class="px-margin-mobile md:px-gutter max-w-max-width mx-auto reveal-up is-visible">
+<div class="text-center mb-16">
+<span class="font-ui-label-md text-ui-label-md text-burnt-clay tracking-[0.2em] uppercase">WHY CHOOSE US</span>
+<h2 class="font-headline-lg text-headline-lg uppercase text-on-surface mt-4 max-w-4xl mx-auto">WORK THAT SHOWS WHEN THE JOB IS DONE.</h2>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-[1100px] mx-auto text-center">
+<div class="flex flex-col gap-4 items-center">
+<div class="w-12 h-12 rounded-full bg-burnt-clay/20 flex items-center justify-center text-burnt-clay mb-2">
+<span class="material-symbols-outlined">schedule</span>
+</div>
+<h3 class="font-headline-md text-[24px] uppercase text-on-surface">SHOWS UP</h3>
+<p class="font-body-md text-on-surface-variant">Customers consistently mention punctuality, reliability and arriving ready to work.</p>
+</div>
+<div class="flex flex-col gap-4 items-center">
+<div class="w-12 h-12 rounded-full bg-burnt-clay/20 flex items-center justify-center text-burnt-clay mb-2">
+<span class="material-symbols-outlined">hearing</span>
+</div>
+<h3 class="font-headline-md text-[24px] uppercase text-on-surface">LISTENS FIRST</h3>
+<p class="font-body-md text-on-surface-variant">Customers describe Israel listening to what they wanted and providing helpful feedback.</p>
+</div>
+<div class="flex flex-col gap-4 items-center">
+<div class="w-12 h-12 rounded-full bg-burnt-clay/20 flex items-center justify-center text-burnt-clay mb-2">
+<span class="material-symbols-outlined">handyman</span>
+</div>
+<h3 class="font-headline-md text-[24px] uppercase text-on-surface">EQUIPPED FOR THE JOB</h3>
+<p class="font-body-md text-on-surface-variant">Cleanup, hauling, Bobcat work and landscaping provide options for a wide range of property needs.</p>
+</div>
+<div class="flex flex-col gap-4 items-center">
+<div class="w-12 h-12 rounded-full bg-burnt-clay/20 flex items-center justify-center text-burnt-clay mb-2">
+<span class="material-symbols-outlined">verified</span>
+</div>
+<h3 class="font-headline-md text-[24px] uppercase text-on-surface">LEAVES A NOTICEABLE DIFFERENCE</h3>
+<p class="font-body-md text-on-surface-variant">Customer reviews repeatedly describe visible improvements to their yards and properties.</p>
+</div>
+</div>
+<div class="mt-16 text-center bg-surface p-8 rounded-DEFAULT border border-outline-variant">
+<p class="font-body-lg text-on-surface mb-8 max-w-2xl mx-auto">Tell us what needs to go, what needs to stay and what you want the property to become.</p>
+<a class="inline-block bg-burnt-clay text-[#131313] px-8 py-4 font-button-text text-button-text uppercase text-center rounded-DEFAULT hover:bg-opacity-90 transition-colors" href="#estimate">GET A FREE ESTIMATE</a>
+</div>
+</div>
+</section>
+<!-- 6. REVIEWS -->
+<section class="border-t border-slate py-section-gap-mobile md:py-section-gap-desktop bg-surface max-w-max-width mx-auto px-6 md:px-16" id="reviews">
+<div class="px-margin-mobile md:px-gutter max-w-max-width mx-auto reveal-up is-visible">
+<div class="text-center mb-16">
+<span class="font-ui-label-md text-ui-label-md text-burnt-clay tracking-[0.2em] uppercase">TESTIMONIALS</span>
+<h2 class="font-headline-lg text-headline-lg uppercase text-on-surface mt-4">BUILT ON WORK PEOPLE NOTICE.</h2>
+<div class="inline-flex items-center gap-2 mt-4 px-6 py-2 bg-surface-container-high rounded-full font-ui-label-lg text-on-surface">
+<span class="text-burnt-clay">4.9</span>
+<span class="material-symbols-outlined text-burnt-clay text-sm" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="text-on-surface-variant px-2">|</span>
+<span class="">36 GOOGLE REVIEWS</span>
+</div>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+<div class="md:col-span-2 bg-surface-container-low p-10 rounded-DEFAULT border border-outline-variant flex flex-col gap-6">
+<div class="flex text-burnt-clay gap-1">
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+</div>
+<p class="font-display-lg text-headline-md italic text-on-surface">"They cleaned up my whole back yard that was over grown with weeds and other debris and made it beautiful again."</p>
+</div>
+<div class="bg-surface-container-low p-8 rounded-DEFAULT border border-outline-variant flex flex-col gap-4">
+<div class="flex text-burnt-clay gap-1">
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+</div>
+<p class="font-body-lg italic text-on-surface">"He was attentive and understanding. He provided ideas and vision."</p>
+</div>
+<div class="bg-surface-container-low p-8 rounded-DEFAULT border border-outline-variant flex flex-col gap-4">
+<div class="flex text-burnt-clay gap-1">
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+</div>
+<p class="font-body-lg italic text-on-surface">"Now it's amazing clean, trees all cut and clean."</p>
+</div>
+<div class="bg-surface-container-low p-8 rounded-DEFAULT border border-outline-variant flex flex-col gap-4">
+<div class="flex text-burnt-clay gap-1">
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+</div>
+<p class="font-body-lg italic text-on-surface">"Prompt, on time and had lots attention to detail."</p>
+</div>
+<div class="bg-surface-container-low p-8 rounded-DEFAULT border border-outline-variant flex flex-col gap-4">
+<div class="flex text-burnt-clay gap-1">
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+</div>
+<p class="font-body-lg italic text-on-surface">"He listened to what we wanted and provided great feedback."</p>
+</div>
+<div class="bg-surface-container-low p-8 rounded-DEFAULT border border-outline-variant flex flex-col gap-4">
+<div class="flex text-burnt-clay gap-1">
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+<span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span>
+</div>
+<p class="font-body-lg italic text-on-surface">"This is the best my back yard has ever looked."</p>
+</div>
+<div class="bg-surface-container-low p-8 rounded-DEFAULT border border-outline-variant flex flex-col gap-4"><div class="flex text-burnt-clay gap-1"><span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span><span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span><span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span><span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span><span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span></div><p class="font-body-lg italic text-on-surface">“Bobcat service took some dirt out of my front and back lawn great service highly recommend!!”</p><div class="mt-auto"><p class="font-ui-label-md text-on-surface">Zae Moeny</p><p class="text-[10px] text-on-surface-variant uppercase tracking-wider">Bobcat Service / Yard Landscaping</p></div></div><div class="bg-surface-container-low p-8 rounded-DEFAULT border border-outline-variant flex flex-col gap-4"><div class="flex text-burnt-clay gap-1"><span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span><span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span><span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span><span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span><span class="material-symbols-outlined" style="font-variation-settings: &quot;FILL&quot; 1;">star</span></div><p class="font-body-lg italic text-on-surface">“Removal of concrete and sod. Installed decorative rock.”</p><div class="mt-auto"><p class="font-ui-label-md text-on-surface">Patricia Gonzales</p><p class="text-[10px] text-on-surface-variant uppercase tracking-wider">Concrete &amp; Sod Removal / Decorative Rock</p></div></div></div>
+</div>
+</section>
+<!-- 7. SERVICE AREA -->
+<section class="border-t border-slate py-section-gap-mobile md:py-section-gap-desktop bg-surface-container-low max-w-max-width mx-auto px-6 md:px-16" id="service-area">
+<div class="px-margin-mobile md:px-gutter max-w-max-width mx-auto reveal-up is-visible">
+<div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+<div>
+<span class="font-ui-label-md text-ui-label-md text-burnt-clay tracking-[0.2em] uppercase mb-4 block">WHERE WE WORK</span>
+<h2 class="font-headline-lg text-headline-lg uppercase text-on-surface mb-6">PROUDLY SERVING MODESTO &amp; THE SURROUNDING AREA.</h2>
+<p class="font-body-lg text-on-surface-variant mb-8">Based in Modesto and serving customers throughout Stanislaus County and surrounding communities.</p>
+<div class="mb-8 p-6 bg-surface border border-outline-variant rounded-DEFAULT">
+<h3 class="font-ui-label-lg text-on-surface uppercase tracking-wider mb-2">BUSINESS HOURS</h3>
+<p class="font-body-md text-on-surface-variant">MON–SAT: 7:00 AM – 6:00 PM | SUN: CLOSED</p>
+</div>
+<a class="inline-flex items-center gap-2 bg-transparent border border-burnt-clay text-burnt-clay px-8 py-4 font-button-text text-button-text uppercase text-center rounded-DEFAULT hover:bg-burnt-clay/10 transition-colors" href="tel:+12094993194">
+<span class="material-symbols-outlined">call</span>
+                            CALL OR TEXT FOR A FREE ESTIMATE
+                        </a>
+<p class="mt-4 font-ui-label-lg text-on-surface">(209) 499-3194</p>
+</div>
+<div class="bg-surface-container-high h-[400px] rounded-DEFAULT border border-outline-variant overflow-hidden">
+<iframe allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps?q=Israel%27s+Clean+ups%2C+Gardening+%26+General+hauling%2C+Modesto%2C+CA&amp;output=embed" style="border: 0px; width: 100%; height: 100%;" title="Israel's Clean Ups service area in Modesto, California" class=""></iframe>
+</div>
+</div>
+</div>
+</section>
+<!-- 8. ESTIMATE / LEAD FORM -->
+<section class="border-t border-slate py-section-gap-mobile md:py-section-gap-desktop bg-surface max-w-max-width mx-auto px-6 md:px-16" id="estimate">
+<div class="px-margin-mobile md:px-gutter max-w-2xl mx-auto reveal-up is-visible">
+<div class="text-center mb-12">
+<span class="font-ui-label-md text-ui-label-md text-burnt-clay tracking-[0.2em] uppercase">GET STARTED</span>
+<h2 class="font-headline-lg text-headline-lg uppercase text-on-surface mt-4">TELL ISRAEL WHAT NEEDS TO GET DONE.</h2>
+</div>
+<form class="space-y-6 bg-surface-container-low p-8 rounded-DEFAULT border border-outline-variant" onsubmit="event.preventDefault(); document.getElementById('success-message').classList.remove('hidden'); this.reset();">
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+<div>
+<label class="block font-ui-label-md text-on-surface mb-2" for="name">Name</label>
+<input class="w-full bg-surface border border-outline-variant rounded-DEFAULT px-4 py-3 text-on-surface focus:border-burnt-clay focus:ring-1 focus:ring-burnt-clay transition-colors" id="name" required="" type="text">
+</div>
+<div>
+<label class="block font-ui-label-md text-on-surface mb-2" for="phone">Phone</label>
+<input class="w-full bg-surface border border-outline-variant rounded-DEFAULT px-4 py-3 text-on-surface focus:border-burnt-clay focus:ring-1 focus:ring-burnt-clay transition-colors" id="phone" required="" type="tel">
+</div>
+</div>
+<div>
+<label class="block font-ui-label-md text-on-surface mb-2" for="location">City / ZIP</label>
+<input class="w-full bg-surface border border-outline-variant rounded-DEFAULT px-4 py-3 text-on-surface focus:border-burnt-clay focus:ring-1 focus:ring-burnt-clay transition-colors" id="location" required="" type="text">
+</div>
+<div>
+<label class="block font-ui-label-md text-on-surface mb-2" for="service">What do you need help with?</label>
+<select class="w-full bg-surface border border-outline-variant rounded-DEFAULT px-4 py-3 text-on-surface focus:border-burnt-clay focus:ring-1 focus:ring-burnt-clay transition-colors" id="service" required=""><option value="" class="">Select a service...</option><option value="Yard Cleanup" class="">Yard Cleanup</option><option value="Hauling / Removal" class="">Hauling / Removal</option><option value="Bobcat Work" class="">Bobcat Work</option><option value="Landscaping" class="">Landscaping</option><option value="Sprinklers / Irrigation" class="">Sprinklers / Irrigation</option><option value="Tree / Hedge Work" class="">Tree / Hedge Work</option><option value="Sod / Rock / Yard Improvements" class="">Sod / Rock / Yard Improvements</option><option value="Other" class="">Other</option></select>
+</div>
+<div>
+<label class="block font-ui-label-md text-on-surface mb-2" for="details">Tell us about the property</label>
+<textarea class="w-full bg-surface border border-outline-variant rounded-DEFAULT px-4 py-3 text-on-surface focus:border-burnt-clay focus:ring-1 focus:ring-burnt-clay transition-colors" id="details" required="" rows="4"></textarea>
+</div>
+<div>
+<label class="block font-ui-label-md text-on-surface mb-2">UPLOAD PROJECT PHOTOS <span class="text-on-surface-variant font-normal">(Optional)</span></label>
+<p class="text-on-surface-variant text-sm mb-3">Show us what you're working with.</p>
+<div class="w-full border-2 border-dashed border-outline-variant rounded-DEFAULT p-8 text-center hover:border-burnt-clay transition-colors cursor-pointer bg-surface flex flex-col items-center justify-center gap-3">
+<span class="material-symbols-outlined text-4xl text-on-surface-variant">photo_camera</span>
+<span class="font-button-text text-on-surface">Drag &amp; drop photos here or click to browse</span>
+</div>
+</div>
+<div>
+<span class="block font-ui-label-md text-on-surface mb-2">Preferred Contact</span>
+<div class="flex gap-6">
+<label class="flex items-center gap-2 text-on-surface-variant cursor-pointer">
+<input class="text-burnt-clay focus:ring-burnt-clay bg-surface border-outline-variant" name="contact_pref" required="" type="radio" value="call">
+                                Call
+                            </label>
+<label class="flex items-center gap-2 text-on-surface-variant cursor-pointer">
+<input class="text-burnt-clay focus:ring-burnt-clay bg-surface border-outline-variant" name="contact_pref" type="radio" value="text">
+                                Text
+                            </label>
+</div>
+</div>
+<button class="w-full bg-burnt-clay text-[#131313] px-8 py-4 font-button-text text-button-text uppercase rounded-DEFAULT hover:bg-opacity-90 transition-colors" type="submit">
+                        REQUEST MY FREE ESTIMATE
+                    </button>
+<div class="hidden bg-surface-container-high border border-burnt-clay text-on-surface p-4 rounded-DEFAULT text-center mt-4" id="success-message">
+                        Thanks. Israel's team will contact you about the project.
+                    </div>
+</form>
+</div>
+</section>
+<!-- Bottom Conversion Bar (Mobile) -->
+<nav class="fixed bottom-0 left-0 w-full z-50 flex md:hidden justify-around items-center px-4 py-3 bg-surface-container-high border-t border-outline/20 shadow-lg pb-safe">
+<a class="flex flex-col items-center justify-center bg-primary-container text-on-primary-container rounded-xl p-2 w-full mx-1 active:scale-98 transition-transform" href="tel:+12094993194">
+<span class="material-symbols-outlined mb-1" style="font-variation-settings: &quot;FILL&quot; 1;">call</span>
+<span class="font-ui-label-lg text-ui-label-lg uppercase text-[10px] tracking-wider">CALL ISRAEL</span>
+</a>
+<a class="flex flex-col items-center justify-center text-on-surface-variant p-2 w-full mx-1 hover:bg-surface-variant active:scale-98 transition-transform rounded-xl" href="#estimate">
+<span class="material-symbols-outlined mb-1" style="font-variation-settings: &quot;FILL&quot; 1;">request_quote</span>
+<span class="font-ui-label-lg text-ui-label-lg uppercase text-[10px] tracking-wider">FREE ESTIMATE</span>
+</a>
+</nav>
+</main>
+<!-- Footer -->
+<footer class="w-full py-16 px-gutter max-w-max-width mx-auto bg-surface-container-lowest border-t border-slate px-6 md:px-16">
+<div class="grid grid-cols-1 md:grid-cols-12 gap-12">
+<div class="md:col-span-5 flex flex-col">
+<div class="font-display-lg text-headline-md uppercase text-on-surface leading-none mb-2">
+                    ISRAEL'S CLEAN UPS
+                </div>
+<p class="font-body-md text-on-surface-variant mb-6">
+                    Cleanup. Landscaping. Hauling. Property Improvement.
+                </p>
+<div class="mt-8 font-body-md text-on-surface-variant text-sm">© 2026 Israel's Clean Ups. All Rights Reserved.</div></div>
+<div class="md:col-span-4 flex flex-col gap-2 font-body-md text-on-surface">
+<a class="hover:text-burnt-clay transition-colors flex items-center gap-2 mb-2" href="tel:+12094993194">
+<span class="material-symbols-outlined text-sm">call</span> (209) 499-3194
+                </a>
+<span class="flex items-center gap-2 text-on-surface-variant mb-4">
+<span class="material-symbols-outlined text-sm">MON–SAT: 7:00 AM – 6:00 PM</span> Modesto, California
+                </span>
+<div class="text-on-surface-variant text-sm">
+<span class="block">MON–SAT: 7:00 AM – 6:00 PM</span>
+<span class="block">SUN: CLOSED</span>
+</div>
+</div>
+<div class="md:col-span-3 flex flex-col gap-4 md:items-end">
+<span class="font-ui-label-lg text-on-surface uppercase tracking-wider">Quick Links</span>
+<a class="font-body-md text-on-surface-variant hover:text-burnt-clay transition-colors" href="#services">Services</a>
+<a class="font-body-md text-on-surface-variant hover:text-burnt-clay transition-colors" href="#work">Our Work</a>
+<a class="font-body-md text-on-surface-variant hover:text-burnt-clay transition-colors" href="#service-area">Service Area</a>
+</div>
+</div>
+</footer>
+<script>
+        // Simple reveal animation observer
+        const observerOptions = {
+            root: null,
+            rootMargin: '0px',
+            threshold: 0.1
+        };
+
+        const observer = new IntersectionObserver((entries, observer) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('is-visible');
+                    observer.unobserve(entry.target);
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.reveal-up').forEach((element) => {
+            observer.observe(element);
+        });
+        
+        // Active Nav State logic based on scroll position (simplified)
+        const sections = document.querySelectorAll("section[id]");
+        window.addEventListener("scroll", () => {
+          let current = "";
+          sections.forEach((section) => {
+            const sectionTop = section.offsetTop;
+            if (pageYOffset >= sectionTop - 200) {
+              current = section.getAttribute("id");
+            }
+          });
+
+          document.querySelectorAll(".nav-link").forEach((a) => {
+            a.classList.remove("active", "text-burnt-clay", "font-bold", "border-b-2", "border-burnt-clay", "pb-1");
+            a.classList.add("text-on-surface-variant", "font-medium");
+            if (a.getAttribute("href").includes(current) && current !== "") {
+                a.classList.add("active", "text-burnt-clay", "font-bold", "border-b-2", "border-burnt-clay", "pb-1");
+                a.classList.remove("text-on-surface-variant", "font-medium");
+            }
+          });
+        });
+    </script>
+
+
+
+
+</body></html>
